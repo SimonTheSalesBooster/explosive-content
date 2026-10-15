@@ -1,0 +1,144 @@
+{
+ "_about": "Your keywords. One search per keyword (plus 'also' phrasing variants). Edit freely. This example list is ours: B2B sales for founders.",
+ "exclude_channels": [],
+ "keywords": [
+  {
+   "kw": "B2B sales acceleration",
+   "tag": "Simon",
+   "also": [
+    "accelerate B2B sales",
+    "sales acceleration"
+   ]
+  },
+  {
+   "kw": "sales conversion rate optimization",
+   "tag": "Simon"
+  },
+  {
+   "kw": "shorten sales cycle",
+   "tag": "Simon",
+   "also": [
+    "shorten the sales cycle",
+    "long sales cycle"
+   ]
+  },
+  {
+   "kw": "how to close a deal",
+   "tag": "Simon"
+  },
+  {
+   "kw": "B2B sales closer",
+   "tag": "Simon"
+  },
+  {
+   "kw": "founder led sales",
+   "tag": "Desire"
+  },
+  {
+   "kw": "B2B lead generation",
+   "tag": "A"
+  },
+  {
+   "kw": "B2B prospecting",
+   "tag": "A"
+  },
+  {
+   "kw": "LinkedIn prospecting",
+   "tag": "A"
+  },
+  {
+   "kw": "B2B cold email",
+   "tag": "A"
+  },
+  {
+   "kw": "build a sales pipeline",
+   "tag": "A"
+  },
+  {
+   "kw": "discovery call questions",
+   "tag": "B"
+  },
+  {
+   "kw": "B2B sales process",
+   "tag": "B"
+  },
+  {
+   "kw": "prospect ghosting after proposal",
+   "tag": "B",
+   "also": [
+    "prospect ghosting",
+    "ghosted after sending proposal"
+   ]
+  },
+  {
+   "kw": "sales follow up",
+   "tag": "B"
+  },
+  {
+   "kw": "cost of inaction sales",
+   "tag": "B",
+   "also": [
+    "cost of inaction",
+    "cost of doing nothing sales"
+   ]
+  },
+  {
+   "kw": "control the sales conversation",
+   "tag": "B",
+   "also": [
+    "take control of the sales call",
+    "control the sales call"
+   ]
+  },
+  {
+   "kw": "stop being needy in sales",
+   "tag": "B",
+   "also": [
+    "needy in sales",
+    "commission breath sales"
+   ]
+  },
+  {
+   "kw": "stop discounting B2B",
+   "tag": "C"
+  },
+  {
+   "kw": "how to raise prices B2B",
+   "tag": "C",
+   "also": [
+    "how to raise your prices"
+   ]
+  },
+  {
+   "kw": "close bigger B2B deals",
+   "tag": "C",
+   "also": [
+    "close bigger deals"
+   ]
+  },
+  {
+   "kw": "handle price objection too expensive",
+   "tag": "C"
+  },
+  {
+   "kw": "hiring first salesperson",
+   "tag": "Desire",
+   "also": [
+    "first sales hire",
+    "hiring your first sales rep"
+   ]
+  },
+  {
+   "kw": "AI sales stack",
+   "tag": "AI GTM",
+   "also": [
+    "AI sales tools B2B",
+    "AI for B2B sales"
+   ]
+  },
+  {
+   "kw": "AI GTM",
+   "tag": "AI GTM"
+  }
+ ]
+}
