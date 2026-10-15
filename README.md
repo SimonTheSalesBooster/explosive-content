@@ -14,6 +14,8 @@ Picture a search results page. Look for a video with **more views than its chann
 
 This free Claude Code skill hunts for exactly that, keyword by keyword. It searches YouTube for the phrases you want to be found for, keeps the videos that beat their own channel, throws out the noise (Shorts, paid ads, tiny channels), and hands you one proven topic per keyword. Then it writes the script. Your afternoon goes into a topic with evidence behind it, not hope. 🐬
 
+Prefer the short version on paper? Get the 2-page guide (method + our October top 10): https://www.strategysprints.com/explosive-content 🌴
+
 Free. No sign-up. Built for B2B topics (change two word lists in `keywords.json` for any other market). Not for you if you want dance trends or viral pranks.
 
 ## We ran it on our own business first
@@ -95,3 +97,5 @@ The free quota is 10,000 units a day. A full run of 25 keywords uses about 5,000
 **[Strategy Sprints](https://www.strategysprints.com)**, Simon Severino. We help B2B founders take control of the sales conversation. 2,400+ founders have gone through our programs. 🐯
 
 Want more skills like this, plus a community of owners to use them with? 🌴 Join the Sprint Club: https://www.strategysprints.com
+
+The printable guide with our October top 10: https://www.strategysprints.com/explosive-content
